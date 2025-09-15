@@ -3,7 +3,19 @@
   "WorkspaceRootPath": "D:\\@2025\\Nit\\ASPNET MVC\\MVCTestProject1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{458AEECE-2332-4D1B-910B-B9F134826996}|MVCTestProject1\\MVCTestProject1.csproj|d:\\@2025\\nit\\aspnet mvc\\mvctestproject1\\mvctestproject1\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{458AEECE-2332-4D1B-910B-B9F134826996}|MVCTestProject1\\MVCTestProject1.csproj|d:\\@2025\\nit\\aspnet mvc\\mvctestproject1\\mvctestproject1\\controllers\\paramscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458AEECE-2332-4D1B-910B-B9F134826996}|MVCTestProject1\\MVCTestProject1.csproj|solutionrelative:mvctestproject1\\controllers\\paramscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458AEECE-2332-4D1B-910B-B9F134826996}|MVCTestProject1\\MVCTestProject1.csproj|D:\\@2025\\Nit\\ASPNET MVC\\MVCTestProject1\\mvctestproject1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458AEECE-2332-4D1B-910B-B9F134826996}|MVCTestProject1\\MVCTestProject1.csproj|solutionrelative:mvctestproject1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458AEECE-2332-4D1B-910B-B9F134826996}|MVCTestProject1\\MVCTestProject1.csproj|D:\\@2025\\Nit\\ASPNET MVC\\MVCTestProject1\\mvctestproject1\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458AEECE-2332-4D1B-910B-B9F134826996}|MVCTestProject1\\MVCTestProject1.csproj|solutionrelative:mvctestproject1\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458AEECE-2332-4D1B-910B-B9F134826996}|MVCTestProject1\\MVCTestProject1.csproj|D:\\@2025\\Nit\\ASPNET MVC\\MVCTestProject1\\mvctestproject1\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{458AEECE-2332-4D1B-910B-B9F134826996}|MVCTestProject1\\MVCTestProject1.csproj|solutionrelative:mvctestproject1\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -27,6 +39,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ParamsController.cs",
+              "DocumentMoniker": "D:\\@2025\\Nit\\ASPNET MVC\\MVCTestProject1\\MVCTestProject1\\Controllers\\ParamsController.cs",
+              "RelativeDocumentMoniker": "MVCTestProject1\\Controllers\\ParamsController.cs",
+              "ToolTip": "D:\\@2025\\Nit\\ASPNET MVC\\MVCTestProject1\\MVCTestProject1\\Controllers\\ParamsController.cs",
+              "RelativeToolTip": "MVCTestProject1\\Controllers\\ParamsController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAuwFEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T14:47:53.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "D:\\@2025\\Nit\\ASPNET MVC\\MVCTestProject1\\MVCTestProject1\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "MVCTestProject1\\Controllers\\DemoController.cs",
+              "ToolTip": "D:\\@2025\\Nit\\ASPNET MVC\\MVCTestProject1\\MVCTestProject1\\Controllers\\DemoController.cs",
+              "RelativeToolTip": "MVCTestProject1\\Controllers\\DemoController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T14:30:45.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\@2025\\Nit\\ASPNET MVC\\MVCTestProject1\\MVCTestProject1\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "MVCTestProject1\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\@2025\\Nit\\ASPNET MVC\\MVCTestProject1\\MVCTestProject1\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "MVCTestProject1\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:13:26.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TestController.cs",
               "DocumentMoniker": "D:\\@2025\\Nit\\ASPNET MVC\\MVCTestProject1\\MVCTestProject1\\Controllers\\TestController.cs",
               "RelativeDocumentMoniker": "MVCTestProject1\\Controllers\\TestController.cs",
@@ -34,8 +84,7 @@
               "RelativeToolTip": "MVCTestProject1\\Controllers\\TestController.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAwwBEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T10:11:32.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T10:11:32.39Z"
             }
           ]
         }
