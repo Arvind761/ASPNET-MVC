@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\@2025\\Nit\\ASPNET MVC\\LabMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72E7F749-7C74-41D6-A54C-4FBB34B10E41}|LabMVC\\LabMVC.csproj|d:\\@2025\\nit\\aspnet mvc\\labmvc\\labmvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E7F749-7C74-41D6-A54C-4FBB34B10E41}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E7F749-7C74-41D6-A54C-4FBB34B10E41}|LabMVC\\LabMVC.csproj|d:\\@2025\\nit\\aspnet mvc\\labmvc\\labmvc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E7F749-7C74-41D6-A54C-4FBB34B10E41}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\@2025\\Nit\\ASPNET MVC\\LabMVC\\LabMVC\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "LabMVC\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\@2025\\Nit\\ASPNET MVC\\LabMVC\\LabMVC\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "LabMVC\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T04:47:10.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\@2025\\Nit\\ASPNET MVC\\LabMVC\\LabMVC\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "LabMVC\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\@2025\\Nit\\ASPNET MVC\\LabMVC\\LabMVC\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "LabMVC\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T04:40:43.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
