@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\@2025\\Nit\\ASPNET MVC\\MVCDataTransfer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11D51669-8264-46C1-B945-C91DB6AE5089}|MVCDataTransfer\\MVCDataTransfer.csproj|d:\\@2025\\nit\\aspnet mvc\\mvcdatatransfer\\mvcdatatransfer\\views\\home\\display1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11D51669-8264-46C1-B945-C91DB6AE5089}|MVCDataTransfer\\MVCDataTransfer.csproj|solutionrelative:mvcdatatransfer\\views\\home\\display1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D51669-8264-46C1-B945-C91DB6AE5089}|MVCDataTransfer\\MVCDataTransfer.csproj|d:\\@2025\\nit\\aspnet mvc\\mvcdatatransfer\\mvcdatatransfer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11D51669-8264-46C1-B945-C91DB6AE5089}|MVCDataTransfer\\MVCDataTransfer.csproj|solutionrelative:mvcdatatransfer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D51669-8264-46C1-B945-C91DB6AE5089}|MVCDataTransfer\\MVCDataTransfer.csproj|d:\\@2025\\nit\\aspnet mvc\\mvcdatatransfer\\mvcdatatransfer\\views\\home\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11D51669-8264-46C1-B945-C91DB6AE5089}|MVCDataTransfer\\MVCDataTransfer.csproj|solutionrelative:mvcdatatransfer\\views\\home\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D51669-8264-46C1-B945-C91DB6AE5089}|MVCDataTransfer\\MVCDataTransfer.csproj|d:\\@2025\\nit\\aspnet mvc\\mvcdatatransfer\\mvcdatatransfer\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11D51669-8264-46C1-B945-C91DB6AE5089}|MVCDataTransfer\\MVCDataTransfer.csproj|solutionrelative:mvcdatatransfer\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Display1.cshtml",
+              "DocumentMoniker": "D:\\@2025\\Nit\\ASPNET MVC\\MVCDataTransfer\\MVCDataTransfer\\Views\\Home\\Display1.cshtml",
+              "RelativeDocumentMoniker": "MVCDataTransfer\\Views\\Home\\Display1.cshtml",
+              "ToolTip": "D:\\@2025\\Nit\\ASPNET MVC\\MVCDataTransfer\\MVCDataTransfer\\Views\\Home\\Display1.cshtml",
+              "RelativeToolTip": "MVCDataTransfer\\Views\\Home\\Display1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T17:56:19.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "D:\\@2025\\Nit\\ASPNET MVC\\MVCDataTransfer\\MVCDataTransfer\\Views\\Home\\Index1.cshtml",
+              "RelativeDocumentMoniker": "MVCDataTransfer\\Views\\Home\\Index1.cshtml",
+              "ToolTip": "D:\\@2025\\Nit\\ASPNET MVC\\MVCDataTransfer\\MVCDataTransfer\\Views\\Home\\Index1.cshtml",
+              "RelativeToolTip": "MVCDataTransfer\\Views\\Home\\Index1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T17:48:02.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\@2025\\Nit\\ASPNET MVC\\MVCDataTransfer\\MVCDataTransfer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCDataTransfer\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\@2025\\Nit\\ASPNET MVC\\MVCDataTransfer\\MVCDataTransfer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCDataTransfer\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T17:46:07.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\@2025\\Nit\\ASPNET MVC\\MVCDataTransfer\\MVCDataTransfer\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "MVCDataTransfer\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\@2025\\Nit\\ASPNET MVC\\MVCDataTransfer\\MVCDataTransfer\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "MVCDataTransfer\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAACYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T17:06:17.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

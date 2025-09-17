@@ -14,9 +14,15 @@ namespace LabMVC
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
 
             routes.MapRoute(
+                name: "Params",
+                url: "{controller}/{action}/{id}/{name}",
+                defaults: new { controller = "Params", action = "Index", id = UrlParameter.Optional,name=UrlParameter.Optional }
+
+                );
+            routes.MapRoute(
                 name:"Employee",
                 url: "{controller}/{action}/{id}",
-                defaults: new {controller="Home",action="Test",id=UrlParameter.Optional}
+                defaults: new {controller= "Employee", action="Test",id=UrlParameter.Optional}
 
                 );
             routes.MapRoute(
