@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "D:\\@2025\\Nit\\ASPNET MVC\\LabMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72E7F749-7C74-41D6-A54C-4FBB34B10E41}|LabMVC\\LabMVC.csproj|d:\\@2025\\nit\\aspnet mvc\\labmvc\\labmvc\\controllers\\paramscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72E7F749-7C74-41D6-A54C-4FBB34B10E41}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\controllers\\paramscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72E7F749-7C74-41D6-A54C-4FBB34B10E41}|LabMVC\\LabMVC.csproj|D:\\@2025\\Nit\\ASPNET MVC\\LabMVC\\labmvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E7F749-7C74-41D6-A54C-4FBB34B10E41}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72E7F749-7C74-41D6-A54C-4FBB34B10E41}|LabMVC\\LabMVC.csproj|d:\\@2025\\nit\\aspnet mvc\\labmvc\\labmvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72E7F749-7C74-41D6-A54C-4FBB34B10E41}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72E7F749-7C74-41D6-A54C-4FBB34B10E41}|LabMVC\\LabMVC.csproj|d:\\@2025\\nit\\aspnet mvc\\labmvc\\labmvc\\controllers\\datapasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E7F749-7C74-41D6-A54C-4FBB34B10E41}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\controllers\\datapasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E7F749-7C74-41D6-A54C-4FBB34B10E41}|LabMVC\\LabMVC.csproj|d:\\@2025\\nit\\aspnet mvc\\labmvc\\labmvc\\views\\datapass\\indexviewbag.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E7F749-7C74-41D6-A54C-4FBB34B10E41}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\datapass\\indexviewbag.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E7F749-7C74-41D6-A54C-4FBB34B10E41}|LabMVC\\LabMVC.csproj|d:\\@2025\\nit\\aspnet mvc\\labmvc\\labmvc\\views\\datapass\\indexviewdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E7F749-7C74-41D6-A54C-4FBB34B10E41}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\datapass\\indexviewdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E7F749-7C74-41D6-A54C-4FBB34B10E41}|LabMVC\\LabMVC.csproj|d:\\@2025\\nit\\aspnet mvc\\labmvc\\labmvc\\views\\datapass\\indexviewdataq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E7F749-7C74-41D6-A54C-4FBB34B10E41}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\datapass\\indexviewdataq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E7F749-7C74-41D6-A54C-4FBB34B10E41}|LabMVC\\LabMVC.csproj|d:\\@2025\\nit\\aspnet mvc\\labmvc\\labmvc\\views\\datapass\\indexviewbagq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E7F749-7C74-41D6-A54C-4FBB34B10E41}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\datapass\\indexviewbagq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72E7F749-7C74-41D6-A54C-4FBB34B10E41}|LabMVC\\LabMVC.csproj|D:\\@2025\\Nit\\ASPNET MVC\\LabMVC\\labmvc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72E7F749-7C74-41D6-A54C-4FBB34B10E41}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E7F749-7C74-41D6-A54C-4FBB34B10E41}|LabMVC\\LabMVC.csproj|d:\\@2025\\nit\\aspnet mvc\\labmvc\\labmvc\\controllers\\paramscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E7F749-7C74-41D6-A54C-4FBB34B10E41}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\controllers\\paramscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,33 +54,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "IndexViewBagQ.cshtml",
+              "DocumentMoniker": "D:\\@2025\\Nit\\ASPNET MVC\\LabMVC\\LabMVC\\Views\\DataPass\\IndexViewBagQ.cshtml",
+              "RelativeDocumentMoniker": "LabMVC\\Views\\DataPass\\IndexViewBagQ.cshtml",
+              "ToolTip": "D:\\@2025\\Nit\\ASPNET MVC\\LabMVC\\LabMVC\\Views\\DataPass\\IndexViewBagQ.cshtml",
+              "RelativeToolTip": "LabMVC\\Views\\DataPass\\IndexViewBagQ.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T04:52:16.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IndexViewDataQ.cshtml",
+              "DocumentMoniker": "D:\\@2025\\Nit\\ASPNET MVC\\LabMVC\\LabMVC\\Views\\DataPass\\IndexViewDataQ.cshtml",
+              "RelativeDocumentMoniker": "LabMVC\\Views\\DataPass\\IndexViewDataQ.cshtml",
+              "ToolTip": "D:\\@2025\\Nit\\ASPNET MVC\\LabMVC\\LabMVC\\Views\\DataPass\\IndexViewDataQ.cshtml",
+              "RelativeToolTip": "LabMVC\\Views\\DataPass\\IndexViewDataQ.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T04:51:40.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IndexViewBag.cshtml",
+              "DocumentMoniker": "D:\\@2025\\Nit\\ASPNET MVC\\LabMVC\\LabMVC\\Views\\DataPass\\IndexViewBag.cshtml",
+              "RelativeDocumentMoniker": "LabMVC\\Views\\DataPass\\IndexViewBag.cshtml",
+              "ToolTip": "D:\\@2025\\Nit\\ASPNET MVC\\LabMVC\\LabMVC\\Views\\DataPass\\IndexViewBag.cshtml",
+              "RelativeToolTip": "LabMVC\\Views\\DataPass\\IndexViewBag.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T04:43:02.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IndexViewData.cshtml",
+              "DocumentMoniker": "D:\\@2025\\Nit\\ASPNET MVC\\LabMVC\\LabMVC\\Views\\DataPass\\IndexViewData.cshtml",
+              "RelativeDocumentMoniker": "LabMVC\\Views\\DataPass\\IndexViewData.cshtml",
+              "ToolTip": "D:\\@2025\\Nit\\ASPNET MVC\\LabMVC\\LabMVC\\Views\\DataPass\\IndexViewData.cshtml",
+              "RelativeToolTip": "LabMVC\\Views\\DataPass\\IndexViewData.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T04:37:22.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataPassController.cs",
+              "DocumentMoniker": "D:\\@2025\\Nit\\ASPNET MVC\\LabMVC\\LabMVC\\Controllers\\DataPassController.cs",
+              "RelativeDocumentMoniker": "LabMVC\\Controllers\\DataPassController.cs",
+              "ToolTip": "D:\\@2025\\Nit\\ASPNET MVC\\LabMVC\\LabMVC\\Controllers\\DataPassController.cs",
+              "RelativeToolTip": "LabMVC\\Controllers\\DataPassController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T04:33:18.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ParamsController.cs",
               "DocumentMoniker": "D:\\@2025\\Nit\\ASPNET MVC\\LabMVC\\LabMVC\\Controllers\\ParamsController.cs",
               "RelativeDocumentMoniker": "LabMVC\\Controllers\\ParamsController.cs",
               "ToolTip": "D:\\@2025\\Nit\\ASPNET MVC\\LabMVC\\LabMVC\\Controllers\\ParamsController.cs",
               "RelativeToolTip": "LabMVC\\Controllers\\ParamsController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAuwDAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAEAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-17T03:59:37.127Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "D:\\@2025\\Nit\\ASPNET MVC\\LabMVC\\LabMVC\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "LabMVC\\App_Start\\RouteConfig.cs",
               "ToolTip": "D:\\@2025\\Nit\\ASPNET MVC\\LabMVC\\LabMVC\\App_Start\\RouteConfig.cs",
               "RelativeToolTip": "LabMVC\\App_Start\\RouteConfig.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBIAAAB+AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBIAAACYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-16T04:47:10.285Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "D:\\@2025\\Nit\\ASPNET MVC\\LabMVC\\LabMVC\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "LabMVC\\Controllers\\EmployeeController.cs",

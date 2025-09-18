@@ -15,8 +15,8 @@ namespace LabMVC
 
             routes.MapRoute(
                 name: "Params",
-                url: "{controller}/{action}/{id}/{name}",
-                defaults: new { controller = "Params", action = "Index", id = UrlParameter.Optional,name=UrlParameter.Optional }
+                url: "{controller}/{action}/{id}/{name}/{fee}",
+                defaults: new { controller = "Params", action = "Index", id = UrlParameter.Optional,name=UrlParameter.Optional,fee=UrlParameter.Optional }
 
                 );
             routes.MapRoute(

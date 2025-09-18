@@ -93,6 +93,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\DataPassController.cs" />
     <Compile Include="Controllers\EmployeeController.cs" />
     <Compile Include="Controllers\ParamsController.cs" />
     <Compile Include="Global.asax.cs">
@@ -103,6 +104,10 @@
   <ItemGroup>
     <Content Include="Views\web.config" />
     <None Include="packages.config" />
+    <Content Include="Views\DataPass\IndexViewData.cshtml" />
+    <Content Include="Views\DataPass\IndexViewBag.cshtml" />
+    <Content Include="Views\DataPass\IndexViewDataQ.cshtml" />
+    <Content Include="Views\DataPass\IndexViewBagQ.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
